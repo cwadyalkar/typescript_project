@@ -18,7 +18,7 @@ class teacher extends Student {
     this.special = special;
   }
 }
-const abhi = new Student(5.5, 58, 54);
+const abhi = new Student(5.5, 58, 55);
 const rakesh = new teacher(57,65,78,true)
 console.log(rakesh.getmyheight)
 console.log(abhi.height);
